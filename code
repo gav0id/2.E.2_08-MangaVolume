@@ -1,6 +1,17 @@
+//Cree la clase MangaVolume con los atributos tituloSerie (String), numeroTomo (int) y cantidadPaginas (int).
+//Diseñe un método público esEdicionEspecial() que retorne un boolean.
+//Diseñe un método privado esTomoExtenso() que verifique si el volumen supera 
+//las 300 páginas (método de apoyo utilizado internamente por esEdicionEspecial).
+//Sobrescriba el método toString() para devolver una representación ordenada en texto de la ficha técnica del tomo.
 
+public class MangaVolume{
 
+}
 
 // ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+public class Main {
+    public static void main(String[] args){
+//Instancie dos objetos en el main e imprima sus representaciones directamente mediante System.out.println(manga).
+    }
+}
